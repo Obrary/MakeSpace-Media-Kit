@@ -1,4 +1,5 @@
-MakeSpace-Media-Kit
-===================
+Product:  MakerSpace Media Kit, January 2015
 
-MakerSpace Media Kit
+Designer: Scott Austin
+
+Distributed by:  Obrary, Inc.  http://obrary.com.  Obrary - democratized product design
